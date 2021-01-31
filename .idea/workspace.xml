@@ -28,7 +28,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_engineering/engineering-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_engineering/engineering-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/engineering.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,15 +92,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="482" y="187" key="SettingsEditor" timestamp="1612021111810">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1612021111810" />
-    <state x="683" y="291" width="620" height="522" key="find.popup" timestamp="1612021050611">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="896" y="380" width="835" height="701" key="find.popup" timestamp="1612100769677">
+      <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="683" y="291" width="620" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1612021050611" />
+    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1612100769677" />
   </component>
 </project>
