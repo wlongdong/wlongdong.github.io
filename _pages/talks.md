@@ -13,10 +13,10 @@ My team and I won the championship of RoboCon China trial in 2017 and 2018 respe
 </div>
 
 ### Robocon 2017
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="https://www.bilibili.com/video/BV1Kt411J7xn" >
-</video>
+    
+<iframe src="//player.bilibili.com/player.html?aid=55401887&bvid=BV1u4411P7xp&cid=96870545&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### Robocon 2018
-
+  
+<iframe src="//player.bilibili.com/player.html?aid=60191717&bvid=BV1Kt411J7xn&cid=104804289&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
