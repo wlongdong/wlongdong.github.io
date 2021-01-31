@@ -15,22 +15,6 @@ My research interests lie in **SLAM(both visual and LiDAR-based)**, **learning-b
 As a robotics enthusiast, when I turned 18 in 2016, I joined the school's robotics team and will continue to work in this field in the future.
  I believe that I can make robots perceptiver and **robots can make the world better**.
 
-Research
-======
-
-
-Engineering Project
-======
-
-
-Selected Honors
-======
-* **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
-* **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
-* **Champion**, the 17th China University Robot Competition, 2018 [[link]](http://www.cnrobocon.net/#/)
-* **Runner-up**, The ABU Asia-Pacific Robot Contest, 2018 [[link]](https://en.wikipedia.org/wiki/ABU_Robocon)
-* **Most influential graduates**, 2019 (10 in 400)
-
 Education
 ======
 * M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022 (Expected)
@@ -38,4 +22,12 @@ Education
 
 * B.S. Automation, Northeastern University(China), 2015 - 2019
   * Department of Automation, College of Information Science and Engineering
+  
+Selected Honors
+======
+* **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
+* **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
+* **Champion**, the 17th China University Robot Competition, 2018 [[link]](http://www.cnrobocon.net/#/)
+* **Runner-up**, The ABU Asia-Pacific Robot Contest, 2018 [[link]](https://en.wikipedia.org/wiki/ABU_Robocon)
+* **Most influential graduates**, 2019 (10 in 400)
 
