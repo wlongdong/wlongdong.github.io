@@ -1,9 +1,14 @@
 ---
-title: "Autonomous Driving for Semiclosed Environment"
-excerpt: "The framework of the program is based on [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3.git) and integrates other excellent work, such as [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git), [pl-slam](https://github.com/rubengooj/pl-slam.git), [Structure-SLAM-PointLine](https://github.com/yanyan-li/Structure-SLAM-PointLine.git), [gf_orb_slam2](https://github.com/ivalab/gf_orb_slam2.git) and [semidense-lines](https://github.com/shidahe/semidense-lines.git). Line features are added to deal with low-texture environments; IMU, wheel encoder are added to deal with lighting variation and motion blur; Some work of [Dr. Zhao](https://github.com/YipuZhao) is referenced for making SLAM cost-efficient.
+title: "Autonomous Driving for Tracked Robot in Off-road Environment"
+excerpt: "In an off-road environment, the assumption of horizontal ground is usually invalid, so IMU and wheel encoder are integrated to rectify LiDAR motion distortion and estimate ego-motion. In addition, [LPD-Net](https://github.com/qiaozhijian/LPD-Net-Pytorch.git) (reproduced by myself) is integrated into [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git) to detect loop closure, which builds a more accurate map for map-based localization. Finally, a loosely-coupled method based on the pose graph is constructed to provide the robot with robust and accurate pose.
  <br/>
-<img src='/images/sweeprobot.jpg' width='500'>"
+<img src='/images/robot.jpg' width='500'>"
 collection: portfolio
 ---
 
-做的很好
+In an off-road environment, the assumption of horizontal ground is usually invalid, so IMU and wheel encoder are integrated to rectify LiDAR motion distortion and estimate ego-motion. In addition, [LPD-Net](https://github.com/qiaozhijian/LPD-Net-Pytorch.git) (reproduced by myself) is integrated into [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git) to detect loop closure, which builds a more accurate map for map-based localization. Finally, a loosely-coupled method based on the pose graph is constructed to provide the robot with robust and accurate pose.
+ <br/>
+<img src='/images/robot.jpg' width='300'>
+
+### Demo
+<img src='/images/localizeInMap.png' width='500'>

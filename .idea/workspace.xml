@@ -29,30 +29,10 @@
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/engineering.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/engineering.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/500x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/500x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bio-photo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bio-photo-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bio-photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bio-photo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/editing-talk.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/editing-talk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foo-bar-identity-th.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/foo-bar-identity-th.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foo-bar-identity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/foo-bar-identity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image-alignment-1200x4002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image-alignment-1200x4002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image-alignment-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image-alignment-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image-alignment-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image-alignment-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image-alignment-580x300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image-alignment-580x300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/images/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mstile-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mstile-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mstile-310x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mstile-310x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mstile-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mstile-310x310.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mstile-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mstile-70x70.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/paragraph-indent.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/paragraph-indent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/paragraph-no-indent.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/paragraph-no-indent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/safari-pinned-tab.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/site-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/site-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +64,6 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612021010570</updated>
       <workItem from="1612021011606" duration="1329000" />
+      <workItem from="1612113515658" duration="1307000" />
     </task>
     <servers />
   </component>
