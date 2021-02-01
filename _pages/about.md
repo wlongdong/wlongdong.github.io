@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master student in [Autonomous Robot Lab](http://robotics.sjtu.edu.cn/index.php?r=site/index) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ).
 
-My research interests lie in **SLAM(both visual and LiDAR-based)**, **learning-based 3D registration** and **place recognition** for autonomous vehicles and mobile robots. I am very passionate about both research and engineering and willing to collaborat with others.
+My research interests lie in **SLAM(both visual and LiDAR-based)**, **learning-based 3D registration** and **place recognition** for autonomous vehicles and mobile robots. I am very passionate about both research and engineering and willing to collaborate with others.
 
 As a robotics enthusiast, when I turned 18 in 2016, I joined the school's robotics team and will continue to work in this field in the future.
  I believe that I can make robots perceptiver and **robots can make the world better**.
