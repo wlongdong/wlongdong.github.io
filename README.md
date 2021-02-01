@@ -34,5 +34,12 @@ To support this, all changes to the underlying code appear as a closed issue wit
 # 遇到的问题
 [解决方案](https://cyclechen.me/2017/04/11/2017-04-11-problems-in-using-jekyll/)
 ```
+#运行命令
 bundle exec jekyll s
+
+#导航
+_data/navigation.yml
+
+#教程
+_pages/markdown.md
 ```

@@ -28,7 +28,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <updated>1612021010570</updated>
       <workItem from="1612021011606" duration="1329000" />
       <workItem from="1612113515658" duration="4031000" />
-      <workItem from="1612154441526" duration="1055000" />
+      <workItem from="1612154441526" duration="2566000" />
     </task>
     <servers />
   </component>
@@ -95,11 +97,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1612021111810" />
-    <state x="896" y="380" width="835" height="701" key="find.popup" timestamp="1612155397243">
+    <state x="896" y="380" width="835" height="701" key="find.popup" timestamp="1612156487921">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="683" y="291" width="620" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1612021050611" />
-    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1612155397243" />
+    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1612156487921" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1612114981516">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
