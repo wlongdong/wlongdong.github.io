@@ -12,12 +12,11 @@ I am a master student in [Autonomous Robot Lab](http://robotics.sjtu.edu.cn/inde
 
 My research interests lie in **SLAM(both visual and LiDAR-based)**, **learning-based 3D registration** and **place recognition** for autonomous vehicles and mobile robots. I am very passionate about both research and engineering and willing to collaborate with others.
 
-As a robotics enthusiast, when I turned 18 in 2016, I joined the school's robotics team and will continue to work in this field in the future.
- I believe that I can make robots perceptiver and **robots can make the world better**.
+As a robot enthusiast, from 2016 to the far future, I will always be committed to the research of robot localization and perception.
 
 Education
 ======
-* M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022 (Expected)
+* M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
   * Department of Automation, School of Electronics, Information and Electrical Engineering 
 
 * B.S. Automation, Northeastern University(China), 2015 - 2019
