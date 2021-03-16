@@ -28,7 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/localize.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +53,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/_portfolio" />
       <recent name="$PROJECT_DIR$" />
@@ -73,7 +77,10 @@
       <workItem from="1612113515658" duration="4031000" />
       <workItem from="1612154441526" duration="3292000" />
       <workItem from="1612272912681" duration="14000" />
-      <workItem from="1615098825728" duration="845000" />
+      <workItem from="1615098825728" duration="1028000" />
+      <workItem from="1615102623484" duration="598000" />
+      <workItem from="1615103233882" duration="23000" />
+      <workItem from="1615875677676" duration="439000" />
     </task>
     <servers />
   </component>
@@ -93,19 +100,19 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="491" width="424" height="484" key="FileChooserDialogImpl" timestamp="1612272923779">
+    <state x="468" y="491" width="424" height="484" key="FileChooserDialogImpl" timestamp="1615103252633">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
-    <state x="468" y="491" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413@67.27.2493.1413" timestamp="1612272923779" />
+    <state x="468" y="491" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413@67.27.2493.1413" timestamp="1615103252633" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1612021111810">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1612021111810" />
-    <state x="896" y="380" width="835" height="701" key="find.popup" timestamp="1615099649457">
-      <screen x="67" y="27" width="2493" height="1413" />
+    <state x="683" y="291" width="620" height="522" key="find.popup" timestamp="1615875824192">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="683" y="291" width="620" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1612021050611" />
-    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1615099649457" />
+    <state x="683" y="291" width="620" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1615875824192" />
+    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1615099768629" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1612114981516">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
