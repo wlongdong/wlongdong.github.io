@@ -28,10 +28,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/localize.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,9 @@
       <workItem from="1615098825728" duration="1028000" />
       <workItem from="1615102623484" duration="598000" />
       <workItem from="1615103233882" duration="23000" />
-      <workItem from="1615875677676" duration="439000" />
+      <workItem from="1615875677676" duration="559000" />
+      <workItem from="1615883363079" duration="4000" />
+      <workItem from="1615968507406" duration="23000" />
     </task>
     <servers />
   </component>

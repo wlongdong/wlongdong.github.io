@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Zhijian's Website"
 title_separator: "-"
 name: &name "Zhijian Qiao"
-description: &description "Master student in Autonomous Robot Lab @ Shanghai Jiao Tong University"
+description: &description "Master student in Intelligent Robotics and Machine Vision (IRMV) Lab @ Shanghai Jiao Tong University"
 url: https://qiaozhijian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "qiaozhijian/qiaozhijian.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name: "Zhijian Qiao"
   avatar: "1.jpg"
-  bio: "Master student in Autonomous Robot Lab @ Shanghai Jiao Tong University"
+  bio: "Master student in Intelligent Robotics and Machine Vision (IRMV) Lab @ Shanghai Jiao Tong University"
   location: "Shanghai, China"
   employer:
   pubmed:
