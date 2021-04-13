@@ -17,7 +17,7 @@ author_profile: true
               <br>
               <strong>Zhijian Qiao</strong>, Zhe Liu, Chuanzhe Suo and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
-              <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019</em><br>
+              <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</em><br>
               <a href="https://arxiv.org/pdf/2011.14579.pdf">Paper</a> /
               <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a>
             </td>
