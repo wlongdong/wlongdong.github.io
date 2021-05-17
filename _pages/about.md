@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Autonomous
+
 I am a master student in [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
 
 My research interests lie in **SLAM(both visual and LiDAR-based)**, **learning-based 3D registration** and **place recognition** for autonomous vehicles and mobile robots. I am very passionate about both research and engineering and willing to collaborate with others.
