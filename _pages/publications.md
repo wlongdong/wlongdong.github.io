@@ -9,13 +9,62 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/m2vip.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>PLReg3D: Learning 3D Local and Global Descriptors Jointly for Global Localization
+                </papertitle>
+              <br>
+              <strong>Zhijian Qiao</strong>, Hanwen Wang, Yu Zhu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+              <br>
+              <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021). Submitted.</em><br>
+              <a href="https://github.com/IRMVLab/PLReg3D.git">Code</a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/seasondepth.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments
+                </papertitle>
+              <br>
+              <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Baoquan Yang, <strong>Zhijian Qiao</strong> and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+              <br>
+              <em> Submitted to NeurIPS 2021 Track for Datasets and Benchmarks, Jun. 2021</em><br>
+              <a href="https://arxiv.org/abs/2011.04408">Paper</a> /
+              <a href="https://seasondepth.github.io/">project</a> /
+              <a href="https://github.com/SeasonDepth/SeasonDepth">benchmark toolkit</a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/shen_vip.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Robust Simultaneous Tracking and Local Dense Structured Mapping at Scenes lack of Geometric Features
+                </papertitle>
+              <br>
+              Yueling Shen, <strong>Zhijian Qiao</strong>, Xu Wang and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+              <br>
+              <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021). Submitted.</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/vcr_formulation.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle>End-to-End  3D  Point  Cloud  Learning  for  Registration  Task  UsingVirtual  Correspondences
                 </papertitle>
               <br>
-              <strong>Zhijian Qiao</strong>, Zhe Liu, Chuanzhe Suo and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+              <strong>Zhijian Qiao</strong>, Huanshu Wei, Zhe Liu, Chuanzhe Suo and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</em><br>
               <a href="https://arxiv.org/pdf/2011.14579.pdf">Paper</a> /
@@ -55,24 +104,6 @@ author_profile: true
               <br>
               <em> IEEE Robotics & Automation Magazine, vol. 27, no. 2, pp. 139-150, June 2020</em><br>
               <a href="ieeexplore.ieee.org/document/9062309">Paper</a>
-            </td>
-          </tr>
-    </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/seasondepth.png" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments
-                </papertitle>
-              <br>
-              <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Baoquan Yang, Weiang Shi, 
-              <strong>Zhijian Qiao</strong> and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
-              <br>
-              <em> Preprint, under review</em><br>
-              <a href="https://arxiv.org/pdf/2011.04408.pdf">Paper</a> /
-              <a href="https://github.com/SeasonDepth/SeasonDepth">project</a>
             </td>
           </tr>
     </table>

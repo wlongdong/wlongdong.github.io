@@ -29,6 +29,8 @@
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +84,9 @@
       <workItem from="1615968507406" duration="23000" />
       <workItem from="1615968654532" duration="669000" />
       <workItem from="1618317056243" duration="535000" />
-      <workItem from="1621218945632" duration="606000" />
+      <workItem from="1621218945632" duration="1426000" />
+      <workItem from="1621226362881" duration="5000" />
+      <workItem from="1623830898778" duration="2889000" />
     </task>
     <servers />
   </component>
@@ -102,22 +106,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="491" width="424" height="484" key="FileChooserDialogImpl" timestamp="1615103252633">
-      <screen x="67" y="27" width="2493" height="1413" />
-    </state>
-    <state x="468" y="491" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413@67.27.2493.1413" timestamp="1615103252633" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1612021111810">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1612021111810" />
-    <state x="896" y="380" width="835" height="701" key="find.popup" timestamp="1618317128559">
+    <state x="896" y="380" width="835" height="701" key="find.popup" timestamp="1623832003263">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="683" y="291" width="620" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1615875824192" />
-    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1618317128559" />
-    <state x="657" y="253" key="run.anything.popup" timestamp="1612114981516">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1612114981516" />
+    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1623832003263" />
   </component>
 </project>
