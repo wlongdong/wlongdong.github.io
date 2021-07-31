@@ -18,7 +18,8 @@ author_profile: true
               <strong>Zhijian Qiao</strong>, <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Weiang Shi, Zhe Liu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.</em><br>
-              <a href="https://github.com/IRMVLab/vLPD-Net.git">Code</a>
+              <a href="https://arxiv.org/abs/2012.05018">Paper</a>
+              <a href="https://github.com/qiaozhijian/vLPD-Net.git">Code</a>
             </td>
           </tr>
     </table>
