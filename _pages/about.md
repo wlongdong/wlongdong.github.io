@@ -12,7 +12,7 @@ I am a master student in [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 
 My research interests lie in **SLAM(both visual and LiDAR-based)** and **3D detection** for autonomous vehicles and mobile robots. I am very passionate about both research and engineering and willing to collaborate with others.
 
-As a robot enthusiast, from 2016 to the far future, I will always be committed to the research of robot localization and perception.
+As a robot enthusiast, from 2016 to the far future, I will always be committed to the research of localization and perception.
 
 Education
 ======
