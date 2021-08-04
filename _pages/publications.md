@@ -34,7 +34,7 @@ author_profile: true
               <br>
               Zhe Liu, <strong>Zhijian Qiao</strong>, Chuanzhe Suo, Yingtian Liu, and Kefan Jin
               <br>
-              <em>Assembly Automation, 2021. Submitted.</em><br>
+              <em>Assembly Automation, 2021.</em><br>
             </td>
           </tr>
     </table>
@@ -49,7 +49,7 @@ author_profile: true
               <br>
               <strong>Zhijian Qiao</strong>, Hanwen Wang, Yu Zhu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
-              <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021). Submitted.</em><br>
+              <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021).</em><br>
               <a href="https://github.com/IRMVLab/PLReg3D.git">Code</a>
             </td>
           </tr>
@@ -83,7 +83,7 @@ author_profile: true
               <br>
               Yueling Shen, <strong>Zhijian Qiao</strong>, Xu Wang and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
-              <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021). Submitted.</em><br>
+              <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021).</em><br>
             </td>
           </tr>
     </table>
