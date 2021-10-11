@@ -28,7 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="795a620e-1efa-4ea8-bedf-42760b8ea562" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +53,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_portfolio" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_portfolio" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_pages" />
-      <recent name="$PROJECT_DIR$/_portfolio" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -115,10 +118,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="683" y="290" width="953" height="546" key="find.popup" timestamp="1627559208470">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="71" y="254" width="1729" height="1314" key="find.popup" timestamp="1633955317023">
+      <screen x="0" y="27" width="3360" height="2533" />
     </state>
+    <state x="71" y="254" width="1729" height="1314" key="find.popup/0.27.3360.2533@0.27.3360.2533" timestamp="1633955317023" />
     <state x="683" y="290" width="953" height="546" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1627559208470" />
-    <state x="896" y="380" width="835" height="701" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1623832003263" />
   </component>
 </project>
