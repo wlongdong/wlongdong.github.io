@@ -32,4 +32,5 @@ Selected Honors
 
 Community Services
 ======
-* Conference Reviewer: ICRA 2021/2022, ROBIO 2022
+* Conference reviewer: ICRA 2021/2022, ROBIO 2022
+* Journal reviewer: T-ASE
