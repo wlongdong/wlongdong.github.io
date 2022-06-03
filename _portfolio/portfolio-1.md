@@ -1,21 +1,15 @@
 ---
-title: "Tightly-coupled Visual-Inertial-Wheel Odometry for Ground Robot"
-excerpt: "VINS has additional unobservable directions for localizing wheeled robots such as scale when a ground robot is constrained to particular motion. Furthermore, accelerometer measurements on the ground robot are greatly affected by noise compared to those on aerial robot. For these considerations, Wheel measurements are integrated into VINS, where we reference some excellent open-source codes(such as [VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion/)) and implement wheel odometer pre-integration, residuals and extrinsic parameters calibration. On the other hand, GPU-accelerated feature extraction and optical flow methods are integrated into the system to accelerate the front-end. The optimization in the back-end is also improved to detect and remove(or reduce weights) the outliers of IMU and wheel pre-integrations and visual measurements. [Fast-LIO2](https://github.com/hku-mars/FAST_LIO) is also integrated based on factor graph. Furthermore, the Sparsification for graph optimization is on the to-do list.
+title: "Semantic VSLAM System with Inertial, Wheel and Surround-view Sensors for Autonomous Indoor Parking"
+excerpt: "Feature-based VSLAM often suffers from perspective and illumination change in GPS-denied parking lots. To this end, we use semantic features extracted from surround-view cameras to achieve long-term stable and robust localization. Thanks to accurate multi-camera calibration and IPM(Inverse Perspective Mapping), semantic features on the surround-view image can be projected on the ground to construct a more stable and consistent feature submap. In the back end, on the basis of the original tightly-coupled optimization consisting of IMU, wheel and visual measurement, semantic features are added in a way similar to point-to-point residuals. At last, loop closure is detected to eliminate drift.
  <br/>
   <br/>
-<img src='/images/viw.gif' width='500'>
+<img src='/images/avp.gif' width='500'>
 "
 collection: portfolio
 ---
 
-VINS has additional unobservable directions for localizing wheeled robots such as scale when a ground robot is constrained to particular motion. Furthermore, accelerometer measurements on the ground robot are greatly affected by noise compared to those on aerial robot. For these considerations, Wheel measurements are integrated into VINS, where we reference some excellent open-source codes(such as [VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion/)) and implement wheel odometer pre-integration, residuals and extrinsic parameters calibration. On the other hand, GPU-accelerated feature extraction and optical flow methods are integrated into the system to accelerate the front-end. The optimization in the back-end is also improved to detect and remove(or reduce weights) the outliers of IMU and wheel pre-integrations and visual measurements. [Fast-LIO2](https://github.com/hku-mars/FAST_LIO) is also integrated based on factor graph. Furthermore, the Sparsification for graph optimization is on the to-do list.
-
- VINS on wheel visualization.
- <div align=center >
-     <img src="/images/viw.gif" width="700"/>
- </div>
+Semantic VSLAM System with Inertial, Wheel and Surround-view Sensors for Autonomous Indoor Parking"
+excerpt: "Feature-based VSLAM often suffers from perspective and illumination change in GPS-denied parking lots. To this end, we use semantic features extracted from surround-view cameras to achieve long-term stable and robust localization. Thanks to accurate multi-camera calibration and IPM(Inverse Perspective Mapping), semantic features on the surround-view image can be projected on the ground to construct a more stable and consistent feature submap. In the back end, on the basis of the original tightly-coupled optimization consisting of IMU, wheel and visual measurement, semantic features are added in a way similar to point-to-point residuals. At last, loop closure is detected to eliminate drift.
  <br/>
- Fusion with Fast-LIO2 based on factor graph.
- <div align=center >
-     <img src="/images/lviw.gif" width="700"/>
- </div>
+  <br/>
+<img src='/images/avp.gif' width='500'>
