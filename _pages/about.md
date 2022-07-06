@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
+I'm doing something very important right now. Previously, I completed my Master’s degrees from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng). Also, I worked as an intern at [DJI](https://www.dji.com) in 2022.
 
-My research interests lie in **SLAM(both visual and LiDAR-based)**, **semi-supervised 3D detection** and **crowd-souring mapping** for autonomous vehicles and mobile robots. I am very passionate about both research and engineering and willing to collaborate with others.
+My research currently focuses on **crowd-soured mapping** and **map-based localization** for autonomous vehicles. In addition to this, I maintain a strong passion for any topic related to robotic perception, such as semi-supervised detection.
 
-As a robot enthusiast, from 2016 to the far future, I will always be committed to the research of localization and perception.
+If you have any interesting ideas or cooperation intentions, please feel free to contact me at qiaozhijian@foxmail.com :)
 
 Education
 ======
+* Ph.D, 2022-? (Maybe when I completely solved that problem)
+  
 * M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
   * Department of Automation, School of Electronics, Information and Electrical Engineering 
 
@@ -24,13 +26,14 @@ Education
   
 Selected Honors
 ======
-* **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
-* **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
+* **Outstanding Graduates**, 2022, SJTU
+* **Most Influential Graduates**, 2019, NEU
 * **Champion**, the 17th China University Robot Competition, 2018 [[link]](http://www.cnrobocon.net/#/)
 * **Runner-up**, The ABU Asia-Pacific Robot Contest, 2018 [[link]](https://en.wikipedia.org/wiki/ABU_Robocon)
-* **Most influential graduates**, 2019 (10 in 400)
+* **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
+* **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
 
 Community Services
 ======
-* Conference reviewer: ICRA 2021/2022, ROBIO 2022
+* Conference reviewer: ICRA, IROS, ROBIO
 * Journal reviewer: T-ASE
