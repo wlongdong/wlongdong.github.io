@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm doing something very important right now. Previously, I completed my Master’s degrees from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng). Also, I worked as an intern at [DJI](https://www.dji.com) in 2022.
+I'm currently doing something very important. Previously, I completed my Master’s degrees from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng). Also, I worked as an intern at [DJI](https://www.dji.com) in 2022.
 
-My research currently focuses on **crowd-soured mapping** and **map-based localization** for autonomous vehicles. In addition to this, I maintain a strong passion for any topic related to robotic perception, such as semi-supervised detection.
+My research focuses on **crowd-soured mapping** and **map-based localization** for autonomous vehicles. In addition to this, I maintain a strong passion for any topic related to robotic perception, such as semi-supervised detection.
 
 If you have any interesting ideas or cooperation intentions, please feel free to contact me at qiaozhijian@foxmail.com :)
 
