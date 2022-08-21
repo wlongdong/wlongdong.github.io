@@ -32,10 +32,10 @@ author_profile: true
                 <papertitle>End-to-End  3D  Point  Cloud  Learning  for  Registration  Task  UsingVirtual  Correspondences
                 </papertitle>
               <br>
-              <strong>Zhijian Qiao</strong>, Huanshu Wei, Zhe Liu, Chuanzhe Suo and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+              <strong>Zhijian Qiao</strong>, Huanshu Wei, Zhe Liu, Chuanzhe Suo, Peng Yin, Yueling Shen, Haoang Li and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</em><br>
-              <a href="https://arxiv.org/pdf/2011.14579.pdf">Paper</a> /
+              <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341249">Paper</a> /
               <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a>
             </td>
           </tr>
