@@ -16,7 +16,7 @@ If you have any interesting ideas or cooperation intentions, please feel free to
 
 Education
 ======
-* Ph.D, 2022-? (Maybe when I completely solved that problem)
+* Ph.D, 2022-?
   
 * M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
   * Department of Automation, School of Electronics, Information and Electrical Engineering 
