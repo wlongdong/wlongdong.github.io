@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently focusing on my research. Previously, I obtained my master’s degrees from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng). Also, I worked as an intern at [DJI](https://www.dji.com) in 2022.
+I'm a Ph.D. student at HKUST [Aerial Robotics Group](https://uav.hkust.edu.hk/) advised by [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my master’s degrees from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
 
-My research focuses on **crowd-soured mapping** and **map-based localization** for autonomous vehicles. In addition to this, I maintain a strong passion for any topic related to robotic perception, including detection and segmentation.
+My research focuses on **crowd-soured mapping** and **map-based localization** for autonomous driving. Besides, I maintain a strong passion for any topic related to robotics, including perception and planning.
 
 If you have any interesting ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
 
 Education
 ======
-* Ph.D, 2022-?
+* Ph.D., Hong Kong University of Science and Technology, 2022 - Present
+  * Department of Electronic and Computer Engineering
   
 * M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
   * Department of Automation, School of Electronics, Information and Electrical Engineering 

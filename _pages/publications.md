@@ -9,6 +9,69 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/iros2023_qzj.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Online Monocular Lane Mapping Using Catmull-Rom Spline
+                </papertitle>
+              <br>
+                <strong>Zhijian Qiao</strong>, Zehuan Yu, Huan Yin and Shaojie Shen
+              <br>
+              <em>Under review.</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/iros2023_qzj2.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap
+                </papertitle>
+              <br>
+                <strong>Zhijian Qiao</strong>, Zehuan Yu, Huan Yin and Shaojie Shen
+              <br>
+              <em>Under review.</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/seasondepth.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments
+                </papertitle>
+              <br>
+              <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Baoquan Yang, <strong>Zhijian Qiao (co-first)</strong>, Jiacheng Zhu, Zuxin Liu, Wenhao Ding, Ding Zhao and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+              <br>
+              <em> Under review</em><br>
+              <a href="https://arxiv.org/abs/2011.04408">Paper</a> /
+              <a href="https://seasondepth.github.io/">project</a> /
+              <a href="https://github.com/SeasonDepth/SeasonDepth">benchmark toolkit</a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/iros2023_yzh.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes
+                </papertitle>
+              <br>
+              Zehuan Yu, <strong>Zhijian Qiao</strong>, Liuyang Qiu, Huan Yin and Shaojie Shen
+              <br>
+              <em>Under review.</em><br>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/iros2021.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -86,24 +149,6 @@ author_profile: true
               Zhe Liu, <strong>Zhijian Qiao</strong>, Chuanzhe Suo, Yingtian Liu, and Kefan Jin
               <br>
               <em>Assembly Automation, 2021.</em><br>
-            </td>
-          </tr>
-    </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/seasondepth.png" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments
-                </papertitle>
-              <br>
-              <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Baoquan Yang, <strong>Zhijian Qiao</strong> and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
-              <br>
-              <em> Submitted to NeurIPS 2021 Track for Datasets and Benchmarks, Jun. 2021</em><br>
-              <a href="https://arxiv.org/abs/2011.04408">Paper</a> /
-              <a href="https://seasondepth.github.io/">project</a> /
-              <a href="https://github.com/SeasonDepth/SeasonDepth">benchmark toolkit</a>
             </td>
           </tr>
     </table>
