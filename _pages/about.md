@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at HKUST [Aerial Robotics Group](https://uav.hkust.edu.hk/) advised by [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my master’s degrees from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
+I'm a Ph.D. student at HKUST [Aerial Robotics Group](https://uav.hkust.edu.hk/) advised by Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my master's degree from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
 
-My research focuses on **crowd-soured mapping** and **map-based localization** for autonomous driving. Besides, I maintain a strong passion for any topic related to robotics, including perception and planning.
+My research focuses on **crowd-sourced mapping** and **map-based localization** for autonomous driving. Besides, I am passionate about any robotics-related topic, including perception and planning.
 
-If you have any interesting ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
+If you have any exciting ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
 
 Education
 ======

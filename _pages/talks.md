@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 # Two-time RoboCon Champion
-My team and I won the championship of RoboCon China trial in 2017 and 2018 respectively, and represented China in the Asia-Pacific event. I am mainly responsible for robot localization, control, wireless communication and an App that can be used for robot debugging and data recording.
+My team and I won the championship of the RoboCon China contest in 2017 and 2018, respectively, and represented China in the Asia-Pacific event. I am mainly responsible for robot localization, control, wireless communication, and an App that can be used for robot debugging and data recording.
 
 <br/>
 <div align=center >
