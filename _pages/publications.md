@@ -18,6 +18,8 @@ author_profile: true
                 <strong>Zhijian Qiao</strong>, Zehuan Yu, Huan Yin and Shaojie Shen
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
+              <a href="https://arxiv.org/abs/2307.11653">arxiv</a> /
+              <a href="https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping">code</a>
             </td>
           </tr>
     </table>
@@ -33,6 +35,8 @@ author_profile: true
                 <strong>Zhijian Qiao</strong>, Zehuan Yu, Huan Yin and Shaojie Shen
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
+              <a href="https://arxiv.org/abs/2307.12116">arxiv</a> /
+              <a href="https://github.com/HKUST-Aerial-Robotics/Pagor">code</a>
             </td>
           </tr>
     </table>
@@ -48,7 +52,7 @@ author_profile: true
               <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Baoquan Yang, <strong>Zhijian Qiao (co-first)</strong>, Jiacheng Zhu, Zuxin Liu, Wenhao Ding, Ding Zhao and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
-              <a href="https://arxiv.org/abs/2011.04408">Paper</a> /
+              <a href="https://arxiv.org/abs/2011.04408">paper</a> /
               <a href="https://seasondepth.github.io/">project</a> /
               <a href="https://github.com/SeasonDepth/SeasonDepth">benchmark toolkit</a>
             </td>
@@ -66,6 +70,8 @@ author_profile: true
               Zehuan Yu, <strong>Zhijian Qiao</strong>, Liuyang Qiu, Huan Yin and Shaojie Shen
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
+              <a href="https://arxiv.org/abs/2307.07126">arxiv</a> /
+              <a href="https://www.youtube.com/watch?v=kXsrFpPR9e4">video</a>
             </td>
           </tr>
     </table>
@@ -81,8 +87,9 @@ author_profile: true
               <strong>Zhijian Qiao</strong>, <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Weiang Shi, Zhe Liu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.</em><br>
-              <a href="https://arxiv.org/abs/2012.05018">Paper</a>
-              <a href="https://github.com/qiaozhijian/vLPD-Net.git">Code</a>
+              <a href="https://arxiv.org/abs/2012.05018">arxiv</a> /
+              <a href="https://ieeexplore.ieee.org/document/9635878">IEEE Xplore</a> /
+              <a href="https://github.com/qiaozhijian/vLPD-Net.git">code</a>
             </td>
           </tr>
     </table>
@@ -92,14 +99,15 @@ author_profile: true
               <img src="../images/vcr_formulation.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>End-to-End  3D  Point  Cloud  Learning  for  Registration  Task  UsingVirtual  Correspondences
+                <papertitle>End-to-End  3D  Point  Cloud  Learning  for  Registration  Task  Using Virtual  Correspondences
                 </papertitle>
               <br>
               <strong>Zhijian Qiao</strong>, Huanshu Wei, Zhe Liu, Chuanzhe Suo, Peng Yin, Yueling Shen, Haoang Li and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</em><br>
-              <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341249">Paper</a> /
-              <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a>
+              <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341249">IEEE Xplore</a> /
+              <a href="https://arxiv.org/abs/2011.14579">arxiv</a> /
+              <a href="https://github.com/qiaozhijian/VCR-Net.git">code</a>
             </td>
           </tr>
     </table>
@@ -115,7 +123,8 @@ author_profile: true
               <strong>Zhijian Qiao</strong>, Hanwen Wang, Yu Zhu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021).</em><br>
-              <a href="https://github.com/IRMVLab/PLReg3D.git">Code</a>
+              <a href="https://ieeexplore.ieee.org/document/9665098">IEEE Xplore</a> /
+              <a href="https://github.com/IRMVLab/PLReg3D.git">code</a>
             </td>
           </tr>
     </table>
@@ -132,8 +141,8 @@ author_profile: true
               <strong>Zhijian Qiao</strong>, Ming Cheng, Zhe Liu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em> IEEE Transactions on Image Processing (2019IF:9.34), Dec. 2020</em><br>
-              <a href="https://ieeexplore.ieee.org/document/9296559">Paper</a> /
-              <a href="https://github.com/HanjiangHu/DASGIL">Code</a>
+              <a href="https://ieeexplore.ieee.org/document/9296559">paper</a> /
+              <a href="https://github.com/HanjiangHu/DASGIL">code</a>
             </td>
           </tr>
     </table>
@@ -149,6 +158,7 @@ author_profile: true
               Zhe Liu, <strong>Zhijian Qiao</strong>, Chuanzhe Suo, Yingtian Liu, and Kefan Jin
               <br>
               <em>Assembly Automation, 2021.</em><br>
+                <a href="https://www.emerald.com/insight/content/doi/10.1108/AA-06-2021-0088/full/html">paper</a>
             </td>
           </tr>
     </table>
@@ -164,8 +174,8 @@ author_profile: true
               Zhe Liu, Chuanzhe Suo, Yingtian Liu, Yueling Shen, <strong>Zhijian Qiao</strong>, Huanshu Wei, Shunbo Zhou, Haoang Li, Xinwu Liang, 
               <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>, Yun-Hui Liu
               <br>
-              <em> IEEE Robotics & Automation Magazine, vol. 27, no. 2, pp. 139-150, June 2020</em><br>
-              <a href="ieeexplore.ieee.org/document/9062309">Paper</a>
+                <em> IEEE Robotics & Automation Magazine, vol. 27, no. 2, pp. 139-150, June 2020</em><br>
+                <a href="ieeexplore.ieee.org/document/9062309">paper</a>
             </td>
           </tr>
     </table>
@@ -181,6 +191,7 @@ author_profile: true
               Yueling Shen, <strong>Zhijian Qiao</strong>, Xu Wang and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
               <br>
               <em>The IEEE 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP 2021).</em><br>
+                <a href="https://ieeexplore.ieee.org/document/9665148">IEEE Xplore</a>
             </td>
           </tr>
     </table>
@@ -196,9 +207,9 @@ author_profile: true
               Cong Dehong, Li Chengyao, Wang Ruchao, Song Chen, Tian Chang and <strong>Zhijian Qiao</strong>
               <br>
               <em>Chinese Control And Decision Conference (CCDC), 2017</em><br>
-              <a href="https://ieeexplore.ieee.org/document/7978260">Paper</a>
+              <a href="https://ieeexplore.ieee.org/document/7978260">paper</a>
             </td>
           </tr>
     </table>
-    
+
 </html>
