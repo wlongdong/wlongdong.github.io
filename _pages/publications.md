@@ -36,6 +36,7 @@ author_profile: true
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
               <a href="https://arxiv.org/abs/2307.11653">arxiv</a> /
+              <a href="https://youtu.be/9aHNV3TQ6xw?si=l18Yy2JT7465N0lu">youtube</a> /
               <a href="https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping">code</a>
             </td>
           </tr>
@@ -53,6 +54,7 @@ author_profile: true
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
               <a href="https://arxiv.org/abs/2307.12116">arxiv</a> /
+              <a href="https://youtu.be/BPqbjhZ0FWQ?si=nfuQZE_ie-PuZID5">youtube</a> /
               <a href="https://github.com/HKUST-Aerial-Robotics/Pagor">code</a>
             </td>
           </tr>
@@ -88,7 +90,7 @@ author_profile: true
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.</em><br>
               <a href="https://arxiv.org/abs/2307.07126">arxiv</a> /
-              <a href="https://www.youtube.com/watch?v=kXsrFpPR9e4">video</a>
+              <a href="https://www.youtube.com/watch?v=kXsrFpPR9e4">youtube</a>
             </td>
           </tr>
     </table>
