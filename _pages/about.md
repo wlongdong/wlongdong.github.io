@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at HKUST [Aerial Robotics Group](https://uav.hkust.edu.hk/) advised by Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Previously, I obtained my master's degree from Shanghai Jiao Tong University at [IRMV Lab](http://irmv.sjtu.edu.cn/), where I was advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
+I am currently pursuing my Ph.D. at HKUST's [Aerial Robotics Group](https://uav.hkust.edu.hk/), under the guidance of Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Prior to this, I earned my Master's degree from the [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University, where I was mentored by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
 
-My research interests include the areas of robotics and autonomous driving, with focus on state estimation, localization and mapping and computer vision.
+My primary research interests encompass robotics and autonomous driving, with a particular emphasis on robust estimation, global localization, and long-term mapping.
 
-If you have any exciting ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
+If you have any good ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
 
 Education
 ======
@@ -38,3 +38,6 @@ Community Services
 ======
 * Conference reviewer: ICRA, IROS, ROBIO
 * Journal reviewer: T-ASE
+* Teaching assistant: 
+  * ELEC 1100: Introduction to Electro-Robot Design, HKUST, 2023 Spring
+  * ELEC 3210: Machine Learning and Information Processing for Robotics, HKUST, 2023 Fall
