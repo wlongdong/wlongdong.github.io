@@ -17,7 +17,7 @@ author_profile: true
               <br>
                 Qiucan Huang, Yuchen Liang, <strong>Zhijian Qiao</strong>, Shaojie Shen, and Huan Yin
               <br>
-              <em>IEEE International Conference on Robotics and Automation 2024.</em><br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA), 2024.</em><br>
             </td>
           </tr>
     </table>
