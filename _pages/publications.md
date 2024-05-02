@@ -47,7 +47,7 @@ author_profile: true
               <br>
                 <strong>Zhijian Qiao</strong>, Zehuan Yu, Binqian Jiang, Huan Yin, and Shaojie Shen
               <br>
-              <em>Under review.</em><br>
+              <em>2024 IEEE Transactions on Automation Science and Engineering</em><br>
               <a href="https://arxiv.org/abs/2308.11573">arxiv</a> /
               <a href="https://github.com/HKUST-Aerial-Robotics/G3Reg">code</a>
             </td>
