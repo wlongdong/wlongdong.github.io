@@ -9,6 +9,22 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/lidar2bim.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform
+                </papertitle>
+              <br>
+                <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
+              <br>
+              <em>Under review.</em><br>
+              <a href="https://arxiv.org/abs/2405.03969">arxiv</a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/rio.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -47,7 +63,7 @@ author_profile: true
               <br>
                 <strong>Zhijian Qiao</strong>, Zehuan Yu, Binqian Jiang, Huan Yin, and Shaojie Shen
               <br>
-              <em>2024 IEEE Transactions on Automation Science and Engineering</em><br>
+              <em>2024 IEEE Transactions on Automation Science and Engineering (IEEE TASE).</em><br>
               <a href="https://arxiv.org/abs/2308.11573">arxiv</a> /
               <a href="https://github.com/HKUST-Aerial-Robotics/G3Reg">code</a>
             </td>
