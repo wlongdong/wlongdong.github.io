@@ -9,6 +9,22 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/slabim.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building \\in Urban Environments
+                </papertitle>
+              <br>
+                Haoming Huang, <strong>Zhijian Qiao</strong>, Zehuan Yu, Chuhao Liu, Shaojie Shen, and Huan Yin
+              <br>
+              <em>Under Review.</em><br>
+              <a href="https://github.com/HKUST-Aerial-Robotics/SLABIM">dataset</a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/slim.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
