@@ -18,6 +18,8 @@ author_profile: true
                 Chuhao Liu, <strong>Zhijian Qiao</strong>, Jieqi Shi, Ke Wang, Peize Liu and Shaojie Shen
               <br>
               <em>Under the TRO review.</em><br>
+              <a href="https://github.com/HKUST-Aerial-Robotics/SG-Reg">code</a> / 
+              <a href="https://www.youtube.com/watch?v=Q7qa-6QgG5U">video</a>
             </td>
           </tr>
     </table>
@@ -32,9 +34,10 @@ author_profile: true
               <br>
                 Zehuan Yu, <strong>Zhijian Qiao</strong>, Wenyi Liu, Huan Yin, Shaojie Shen
               <br>
-              <em>Under the TRO review.</em><br>
+              <em>IEEE Transactions on Robotics, March 2025.</em><br>
               <a href="https://arxiv.org/abs/2409.08681">arxiv</a> /
-              <a href="https://github.com/HKUST-Aerial-Robotics/SLIM">code</a>
+              <a href="https://github.com/HKUST-Aerial-Robotics/SLIM">code</a> / 
+              <a href="https://www.youtube.com/watch?v=8HQnYMf_BWI">video</a>
             </td>
           </tr>
     </table>
@@ -49,9 +52,10 @@ author_profile: true
               <br>
                 Haoming Huang, <strong>Zhijian Qiao</strong>, Zehuan Yu, Chuhao Liu, Shaojie Shen, and Huan Yin
               <br>
-              <em>Under the ICRA review.</em><br>
+              <em>2025 IEEE International Conference on Robotics & Automation.</em><br>
               <a href="https://github.com/HKUST-Aerial-Robotics/SLABIM">dataset</a> /
-              <a href="https://www.youtube.com/watch?v=7NckgY15ABQ">video</a>
+              <a href="https://www.youtube.com/watch?v=7NckgY15ABQ">video</a> /
+              <a href="https://github.com/HKUST-Aerial-Robotics/SLABIM">code</a>
             </td>
           </tr>
     </table>
@@ -66,8 +70,10 @@ author_profile: true
               <br>
                 <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
               <br>
-              <em>Under the TASE review.</em><br>
-              <a href="https://arxiv.org/abs/2405.03969">arxiv</a>
+              <em>IEEE Transactions on Automation Science and Engineering, March 2025.</em><br>
+              <a href="https://arxiv.org/abs/2405.03969">arxiv</a> / 
+              <a href="https://github.com/HKUST-Aerial-Robotics/LiDAR2BIM-Registration">code</a> / 
+              <a href="https://www.youtube.com/watch?v=SWbnsaRyL-M&feature=youtu.be">video</a>
             </td>
           </tr>
     </table>
