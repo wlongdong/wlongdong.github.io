@@ -89,19 +89,12 @@ Abstract: Task-oriented grasping (TOG), which refers to synthesizing grasps on a
 <br><br>
 
 <h1 id="work5" class="page1" >FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation</h1>
-<a href="https://arxiv.org/pdf/2502.11744" target="_blank" class="custom-link arxiv">Submitted to IROS2025: Pdf</a>
+<a href="https://arxiv.org/pdf/2502.11744" target="_blank" class="custom-link arxiv">Arxiv2025: Pdf</a>
 <a href="https://sites.google.com/view/functo"  target="_blank" class="custom-link web">site</a>
 <a href="https://youtu.be/E_NXAZKRvWk" target="_blank" class="custom-link video">video</a>
 <p>
 Abstract: Learning tool use from a single human demonstration video offers a highly intuitive and efficient approach to robot teaching. While humans can effortlessly generalize a demonstrated tool manipulation skill to diverse tools that support the same function (e.g., pouring with a mug versus a teapot), current one-shot imitation learning (OSIL) methods struggle to achieve this. A key challenge lies in establishing functional correspondences between demonstration and test tools, considering significant geometric variations among tools with the same function (i.e., intra-function variations). To address this challenge, we propose FUNCTO (Function-Centric OSIL for Tool Manipulation), an OSIL method that establishes function-centric correspondences with a 3D functional keypoint representation, enabling robots to generalize tool manipulation skills from a single human demonstration video to novel tools with the same function despite significant intra-function variations. With this formulation, we factorize FUNCTO into three stages: (1) functional keypoint extraction, (2) function-centric correspondence establishment, and (3) functional keypoint-based action planning. We evaluate FUNCTO against exiting modular OSIL methods and end-to-end behavioral cloning methods through real-robot experiments on diverse tool manipulation tasks. The results demonstrate the superiority of FUNCTO when generalizing to novel tools with intra-function geometric variations.
 </p>
 <img src="../images/functo_pub.png" alt="hpp" style="border-style: none" >
-
-<br><br>
-
-
-
-
-
 
 </html>
