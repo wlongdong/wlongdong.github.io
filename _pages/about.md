@@ -7,12 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently pursuing my M.Sc at SUSTech's [RCVLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://scholar.google.com/citations?hl=zh-CN&user=J7UkpAIAAAAJ). Prior to this, I earned my Bachelor's degree in Electronic Information Science and Technology from Dalian Maritime University.
 
-I am currently pursuing my Ph.D. at HKUST's [Aerial Robotics Group](https://uav.hkust.edu.hk/), under the guidance of Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Prior to this, I earned my Master's degree from the [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University, where I was mentored by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
-
-My primary research interests encompass robotics and autonomous driving, with a particular emphasis on robust estimation, global localization, and long-term mapping.
-
-If you have any good ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
+My research interests involve robotic manipulation and grasping, mobile manipulation, human-robot interaction, and semantic reasoning for robots. The ultimate goal is to develop autonomous agents that can perceive, reason, and interact with the physical world with the same level of Intelligence as humans.
 
 Education
 ======

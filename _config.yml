@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Wenlong Dong (董汶龙)"
+  name: "Wenlong Dong(董汶龙)"
   avatar: "opt1.jpg"
-  bio: "Ph.D. student in HKUST Aerial Robotics Group"
-  location: "Clear Water Bay, Hong Kong, China"
+  bio: "M.Sc. student in SUSTech"
+  location: "Shenzhen, China"
   employer:
   pubmed:
-  googlescholar:
-  email: "zqiaoac@connect.ust.hk"
+  googlescholar: "https://scholar.google.com/citations?user=NNafpNQAAAAJ&hl=zh-CN"
+  email: "12332134@sustech.edu.cn"
   researchgate:
   uri:
   bitbucket:
@@ -98,7 +98,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "qiaozhijian"
+  github: "wlongdong"
   google_plus:
   keybase:
   instagram:
