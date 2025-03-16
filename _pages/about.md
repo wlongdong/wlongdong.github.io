@@ -63,6 +63,77 @@ My research interests involve **robotic manipulation and grasping**, **mobile ma
 
 </style>
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/RTAGrasp.png" alt="hpp" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment</papertitle>
+      <br>
+      <strong>Wenlong Dong</strong>， Dehao Huang， Jiangshan Liu，Chao Tang，Hong Zhang
+      <br>
+      <em>Accepted for publication in the 2025 IEEE/RSJ International Conference on Robotics and Automation (ICRA)</em><br>
+      <a href="https://arxiv.org/pdf/2409.16033" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/rtagrasp/home"  target="_blank" class="custom-link web">site</a>
+      <a href="https://youtu.be/kjbltBw84Rg" target="_blank" class="custom-link video">video</a>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/HGDiffuser.png" alt="hpp" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>HGDiffuser: Efficient Task-Oriented Grasp Generation via Human-Guided Grasp Diffusion Models</papertitle>
+      <br>
+      Dehao Huang, <strong>Wenlong Dong</strong>, Chao Tang, Hong Zhang
+      <br>
+      <em>Submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
+      <a href="https://arxiv.org/pdf/2503.00508" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/hgdiffuser"  target="_blank" class="custom-link web">site</a>
+      <a href="https://youtu.be/fUt6cE9SZoY" target="_blank" class="custom-link video">video</a>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/handover.png" alt="hpp" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>Leveraging Semantic and Geometric Information for Zero-Shot Robot-to-Human Handover</papertitle>
+      <br>
+      Jiangshan Liu, <strong>Wenlong Dong</strong>, Jiankun Wang, Max Q-H Meng
+      <br>
+      <em>Accepted for publication in the 2025 IEEE/RSJ International Conference on Robotics and Automation (ICRA)</em><br>
+      <a href="https://arxiv.org/pdf/2409.17621" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/vlm-handover/"  target="_blank" class="custom-link web">site</a>
+      <a href="https://youtu.be/_Q36TWdC59Q" target="_blank" class="custom-link video">video</a>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/FUNCTO.png" alt="hpp" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>FoundationGrasp: Generalizable Task-Oriented Grasping with Foundation Models</papertitle>
+      <br>
+      Chao Tang, Dehao Huang, <strong>Wenlong Dong</strong>, Ruinian Xu, Hong Zhang
+      <br>
+      <em>Published in 2025 IEEE Transactions on Automation Science and Engineering (T-ASE)</em><br>
+      <a href="https://arxiv.org/abs/2404.10399" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/foundationgrasp"  target="_blank" class="custom-link web">site</a>
+      <a href="https://youtu.be/B6iTa6BRB1w" target="_blank" class="custom-link video">video</a>
+    </td>
+  </tr>
+</table>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
@@ -70,14 +141,14 @@ My research interests involve **robotic manipulation and grasping**, **mobile ma
       <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-      <papertitle>FoundationGrasp: Generalizable Task-Oriented Grasping with Foundation Models</papertitle>
+      <papertitle>FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation</papertitle>
       <br>
-      Chao Tang, Dehao Huang, <strong>Wenlong Dong</strong>, Ruinian Xu, Hong Zhang
+      Chao Tang, Anxing Xiao, Yuhong Deng, Tianrun Hu, <strong>Wenlong Dong</strong>, Hanbo Zhang, David Hsu, and Hong Zhang
       <br>
-      <em>Published in 2025 IEEE Transactions on Automation Science and Engineering (RAL)</em><br>
-      <a href="https://arxiv.org/abs/2404.10399" target="_blank" class="custom-link arxiv">arxiv</a>
-      <a href="https://sites.google.com/view/foundationgrasp"  target="_blank" class="custom-link web">site</a>
-      <a href="https://youtu.be/B6iTa6BRB1w" target="_blank" class="custom-link video">video</a>
+      <em>Arxiv, 2025</em><br>
+      <a href="https://arxiv.org/pdf/2502.11744" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/functo"  target="_blank" class="custom-link web">site</a>
+      <a href="https://youtu.be/E_NXAZKRvWk" target="_blank" class="custom-link video">video</a>
     </td>
   </tr>
 </table>
@@ -89,9 +160,9 @@ My research interests involve **robotic manipulation and grasping**, **mobile ma
 🍻Selected Honors
 ======
 * **Outstanding Graduate Award of Liaoning Province**, 2023
-* **Top 10 College Student Nominee**, 2023
+* **Top 10 University Student Nominee**, 2023
 * **Holder of a National Invention Patent**
-* **Approved for A National Undergraduate Innovation and Entrepreneurship Project**
+* **Approved for a National Undergraduate Innovation and Entrepreneurship Project**
 * **National First Prize**, Robot Developer Competition **ROBOCOM** 2022
 * **National First Prize，The Only Champion in Individual Event**, National College Embedded Chip and System Design Competition, 2022
 * **National Second Prize**, National Software and Information Technology Professional Competition, 2021
