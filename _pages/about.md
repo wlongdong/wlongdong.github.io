@@ -23,11 +23,11 @@ My research interests involve **robotic manipulation and grasping**, **mobile ma
 ======
 * **Outstanding Graduate Award of Liaoning Province**, 2023
 * **Top 10 College Student Nominee**, 2023
-* **National First Prize**, Robot Developer Competition **ROBOCOM** 2022
-* **National First Prize，The Only Champion in Individual Event**,  National College Embedded Chip and System Design Competition, 2022
-* **National Second Prize**, National Software and Information Technology Professional Competition, 2021
-* **National Third Prize**, China Collegiate Computing Competition, 2022
-* **Gold Award**, "Challenge Cup" China College Students’ Entrepreneurship Competition, Liaoning Provincial Division, 2022
-* **Provincial First Prize**, "National College Students Mathematical Contest in Modeling, Liaoning Provincial Division, 2021
 * **Holder of a National Invention Patent**
 * **Approved for One National Undergraduate Innovation and Entrepreneurship Project**
+* **National First Prize**, Robot Developer Competition **ROBOCOM** 2022
+* **National First Prize，The Only Champion in Individual Event**, National College Embedded Chip and System Design Competition, 2022
+* **National Second Prize**, National Software and Information Technology Professional Competition, 2021
+* **National Third Prize**, China Collegiate Computing Competition, 2022
+* **Provincial First Prize**, "National College Students Mathematical Contest in Modeling, Liaoning Provincial Division, 2021
+* **Gold Award**, "Challenge Cup" China College Students’ Entrepreneurship Competition, Liaoning Provincial Division, 2022
