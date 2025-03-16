@@ -9,7 +9,7 @@
 locale: "en-US"
 title: "Wenlong's Website"
 title_separator: "-"
-name: &name "Wenlong Dong (董汶龙)"
+name: &name "Wenlong Dong<br>(董汶龙)"
 description: &description "M.Sc. student in SUSTech"
 url: https://wlongdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Wenlong Dong(董汶龙)"
+  name: "Wenlong Dong<br>(董汶龙)"
   avatar: "opt4.jpeg"
   bio: "M.Sc. student in SUSTech"
   location: "Shenzhen, China"
