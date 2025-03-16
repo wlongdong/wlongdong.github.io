@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my M.Sc at SUSTech's [RCVLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my Bachelor's degree in Electronic Information Science and Technology from Dalian Maritime University.
+I am currently pursuing my M.S. at SUSTech's [RCVLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my Bachelor's degree in Electronic Information Science and Technology from Dalian Maritime University.
 
 My research interests involve **robotic manipulation and grasping**, **mobile manipulation**, **human-robot interaction**, and **semantic reasoning for robots**. The ultimate goal is to develop autonomous agents that can perceive, reason, and interact with the physical world with the same level of Intelligence as humans.
 
