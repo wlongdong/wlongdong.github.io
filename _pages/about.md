@@ -120,7 +120,7 @@ My research interests involve **robotic manipulation and grasping**, **mobile ma
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
     <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-      <img src="../images/FUNCTO.png" alt="hpp" style="border-style: none">
+      <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <papertitle>FoundationGrasp: Generalizable Task-Oriented Grasping with Foundation Models</papertitle>
@@ -138,7 +138,7 @@ My research interests involve **robotic manipulation and grasping**, **mobile ma
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
     <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-      <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
+      <img src="../images/FUNCTO.png" alt="hpp" style="border-style: none">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <papertitle>FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation</papertitle>
